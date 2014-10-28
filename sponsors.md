@@ -1,11 +1,1 @@
-# Past sponsors
-- DigitalOcean
-
-# Berlin Companies
-- ContentFul
-- TravisCI
-- Small Improvements
-- Hoodie
-- Avuba
-- Futurice
-- SoundCloud (does not sponsor node events in general)
+Listez ici le nom de votre société et les infos de contact si vous souhaitez sponsoriser un NodeSchool Paris.

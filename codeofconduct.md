@@ -1,48 +1,33 @@
-# Code of Conduct
+# Code de Conduite
 
-All attendees, speakers, sponsors and volunteers at NodeSchool Berlin are required to agree 
-with the following code of conduct. Organizers will enforce this code throughout the event. 
-We are expecting coorporation from all participants to help ensuring a safe environment for everybody.
+Tous les auditeurs, orateurs, sponsors et bénévoles de NodeSchool Paris doivent accepter le code de conduite suivant. Les organisateurs garantiront son respect tout au long des événements et ateliers.  Nous attendons la collaboration de chacun afin de garantir un environnement sain et inclusif pour tous.
 
-*tl:dr: Do not harass people. Be awesome to each other.*
+*tl;dr : ne harcelez pas les gens.  Soyez top et respectueux les uns envers les autres.*
 
-## Need Help? Contact Finn
+## Besoin d’aide ? Contactez Christophe
 
-Contact | Finn Pauls
+Contact | Christophe Porteneuve
 --- | ---
-Twitter | [@finnpauls](https://twitter.com/finnpauls)
-Email | derfinn[at]gmail.com
-Phone | +4915732650702
+Twitter | [@porteneuve](https://twitter.com/porteneuve)
+Email | christophe.porteneuve[at]gmail.com
+Phone | +33662059656
 
-## The Quick Version
+## La version courte
 
-NodeSchool Berlin is dedicated to providing a harassment-free conference experience for 
-everyone, regardless of gender, sexual orientation, disability, physical appearance, body size,
-race, or religion. We do not tolerate harassment of participants in any form. Conference 
-participants violating these rules may be sanctioned or expelled from the event at the
-discretion of the organizers.
+NodeSchool Paris s’engage absolument à fournir une expérience dépourvue de toute forme de harcèlement, pour tous, indépendamment de votre genre, orientation sexuelle, handicap, apparence physique, taille, race ou religion.  Nous ne tolèrerons aucune forme de harcèlement quelle qu’elle soit.  Les participants aux événements et ateliers qui violeraient ces principes pourront être sanctionnés et expulsés à la discrétion des organisateurs.
 
-## The Less Quick Version
+## La version moins courte
 
-Harassment includes offensive verbal comments related to gender, sexual orientation,
-disability, physical appearance, body size, race, religion, sexual images in
-public spaces, deliberate intimidation, stalking, following, harassing photography
-or recording, sustained disruption of talks or other events, inappropriate physical
-contact, and unwelcome sexual attention.
+Le harcèlement inclut les injures et remarques offensives relatives au genre, à l’orientation sexuelle, aux handicaps, à l’apparence physique, à la taille, la race ou la religion, ainsi que des images sexuelles dans les espaces publics, l’intimidation délibérée, le fait de suivre quelqu’un de façon persistante, de prendre des photos ou enregistrements contre la préférence des personnes concernées, l’interruption abusive de conversations, sessions ou autres événements, les contacts physiques inappropriés, ou encore toute attention sexuelle non souhaitée.  Cette liste ne doit pas être considérée comme exhausitve.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Tout participant auquel on demande de cesser un comportement de harcèlement doit obéir immédiatement.
 
-If a participant engages in harassing behavior, the organizers may take any action 
-they deem appropriate, including warning the offender or expulsion from the event.
+Si un participant fait du harcèlement, les organisateurs sont autorisés à prendre touet mesure qu’ils estimeraient appropriée, de l’avertissement du coupable jusqu’à son expulsion de l’événement.
 
-If you are being harassed, notice that someone else is being harassed, or have any
-other concerns, please conctact an organizer or mentor. We will tell you who are 
-responsible at the beginning of the event. You can also contact Finn directly (info above).
+Si vous êtes harcelé-e, ou remarquez que quelqu’un semble l’être, ou avez des questions d’autre nature, contactez un organisateur ou un mentor.  Nous indiquerons les personnes responsables de cet aspect au début de chaque événement.  Vous pouvez aussi contacter Christophe directement (voir ci-dessus).
 
-We are happy to help participants contact venue security or local law enforcement,
-provide escorts, or otherwise assist those experiencing harassment to feel safe. 
-We value your attendance.
+Nous sommes à la disposition des participants pour contacter la sécurité du lieu de l'événement ou les forces de l'ordre locales, fournir une escorte, et de façon générale assister ceux qui subissent un harcèlement afin de leur permettre de se sentir en sécurité.  Il est important pour nous que vous puissiez participer.
 
-We expect participants to follow these rules at the event and related social events.
+Ces règles sont applicables pendant nos événements et tout rassemblement social qui y est associé, tels qu’un *drinkup* dans un bar, une soirée, etc.
 
-This Code of Conduct was adapted from the [JS Conf.eu Code of Conduct]( http://2014.jsconf.eu/code-of-conduct.html).
+Ce Code de Conduite est adapté du [JS Conf.eu Code of Conduct]( http://2014.jsconf.eu/code-of-conduct.html).
