@@ -22,7 +22,7 @@ Le harcèlement inclut les injures et remarques offensives relatives au genre, �
 
 Tout participant auquel on demande de cesser un comportement de harcèlement doit obéir immédiatement.
 
-Si un participant fait du harcèlement, les organisateurs sont autorisés à prendre touet mesure qu’ils estimeraient appropriée, de l’avertissement du coupable jusqu’à son expulsion de l’événement.
+Si un participant fait du harcèlement, les organisateurs sont autorisés à prendre toute mesure qu’ils estimeraient appropriée, de l’avertissement du coupable jusqu’à son expulsion de l’événement.
 
 Si vous êtes harcelé-e, ou remarquez que quelqu’un semble l’être, ou avez des questions d’autre nature, contactez un organisateur ou un mentor.  Nous indiquerons les personnes responsables de cet aspect au début de chaque événement.  Vous pouvez aussi contacter Christophe directement (voir ci-dessus).
 
