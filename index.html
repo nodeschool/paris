@@ -74,7 +74,7 @@
           <!-- <h4 class="signup-subtitle">Want to have another NodeSchool in Berlin? Help planing it or show interest at GitHub.</h4> -->
           <h4 class="signup-subtitle">
             Le prochain atelier NodeSchool Paris aura lieu<br/>
-            <strong>samedi 19 novembre 2016 de 10h à 18h30 chez Mozilla Paris</strong> !
+            <strong>samedi <span id="nextDate">23 juin 2018</span> de 10h à 18h30 chez Mozilla Paris</strong> !
           </h4>
         </div>
       </div>
@@ -82,7 +82,7 @@
         <!-- START: Signup Form Bottom -->
         <div class="eight columns centered">
           <div class="signup-form">
-            <a href="http://www.meetup.com/NodeSchool-Paris/" class="btn-side animate-on-scroll" data-scrollanimation="fadeInLeft"><i class="icon-ticket"></i> Inscris-toi !</a>
+            <a id="registrationLink" href="http://www.meetup.com/NodeSchool-Paris/" class="btn-side animate-on-scroll" data-scrollanimation="fadeInLeft"><i class="icon-ticket"></i> Inscris-toi !</a>
           </div>
         </div>
         <!-- /END: Signup Form Bottom -->
@@ -128,6 +128,21 @@
     </div>
   </footer>
   <!-- /END: Site Footer -->
+  <script>
+    function injectNextMeetup({ data = [] }) {
+      const MONTHS = 'janvier février mars avril mai juin juillet août septembre octobre novembre décembre'.split(' ')
 
+      const nextMeetup = data[0]
+      if (!nextMeetup) return
+
+      const [year, month, day] = nextMeetup.local_date.split('-').map((s) => Number(s))
+      const nextDate = `${day} ${MONTHS[month - 1]} ${year}`
+      document.getElementById('nextDate').textContent = nextDate
+
+      const regURL = nextMeetup.link
+      document.getElementById('registrationLink').href = regURL
+    }
+  </script>
+  <script src="https://api.meetup.com/NodeSchool-Paris/events?status=upcoming&amp;callback=injectNextMeetup"></script>
 </body>
 </html>
