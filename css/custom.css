@@ -100,15 +100,8 @@
 .site-header {
   border: none;
   height: 402px;
-  background: transparent url('../img/logo.png') center 10px no-repeat;
-}
-
-.site-header .logo {
-  background-color: rgba(216, 39, 39, 0.2);
-  color: #d82727;
-  text-shadow: 2px -2px 1px white, 2px 2px 1px white, -2px 2px 1px white,
-    -2px -2px 1px white;
-  font-family: Monaco, Menlo, 'Droid Sans Mono', 'DejaVu Sans Mono', monospace;
+  background: transparent url('../img/nodeschool-paris.svg') center 10px
+    no-repeat;
 }
 
 #subheadline,
